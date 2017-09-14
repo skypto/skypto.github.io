@@ -1,3 +1,4 @@
+![Top Image](skypto.github.io/images/chair.jpg)
 # **HI THERE, I'M KWABENA KESSE AWUAH**
 
 ##### [email](awuahkwabena@gmail.com)    [CV](https://github.com/)
