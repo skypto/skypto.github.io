@@ -1,6 +1,6 @@
 # **HI THERE, I'M KWABENA KESSE AWUAH**
 
-#####<awuahkwabena@gmail.com>
+##### <awuahkwabena@gmail.com>
 ---
 #### I am best known as **skypto** in coding circles. I like to watch, learn and code.
 
