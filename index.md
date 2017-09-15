@@ -7,6 +7,6 @@
 #### I am best known as **skypto** in coding circles. I like to watch, learn and code.
 
 CHECK OUT MY PROJECTS BELOW: 
-1. **TODO LIST APPLICATION:** A nice todolist app: [Demo](www.google.com) [Source](https://www.google.com)
-2. **CLEAN CALC:** Description here: [Repository](https://www.google.com)
+1. **TODO LIST APPLICATION:** A nice todolist app: [Demo soon](www.google.com) [Source](https://github.com/skypto/todo/tree/master)
+2. **CLEAN CALC:** Description here: [Repository](https://github.com/skypto/cleancalc)
 
