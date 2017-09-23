@@ -9,4 +9,5 @@
 CHECK OUT MY PROJECTS BELOW: 
 1. **TODO LIST APPLICATION:** A nice todolist app: [Demo](https://skypto.github.io/todo/)  [Source](https://github.com/skypto/todo/tree/master)
 2. **CLEAN CALC:** A calculator app: [Demo](https://skypto.github.io/cleancalc/)  [Source](https://github.com/skypto/cleancalc)
+3. **Google Page:** A Sample Google Page: [Demo](https://skypto.github.io/google_page/)
 
