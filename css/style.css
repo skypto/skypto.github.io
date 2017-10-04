@@ -124,3 +124,8 @@ footer p,
 footer a {
     font-size: 13px;
 }
+
+.thumbnail {
+    text-align: center;
+    border:1px #AAA4A4 solid;
+}
