@@ -67,7 +67,7 @@
                         
 
                             <!-- Button trigger modal -->
-                            <button type="button" class="btn btn-success btn-lg btn-block" data-toggle="modal" data-target="#myModal"><span class="fa fa-code"></span>View Coding Portfolio
+                            <button id=click_button type="button" class="btn btn-success btn-lg btn-block" data-toggle="modal" data-target="#myModal"><span class="fa fa-code"></span>View Coding Portfolio
                             </button>
 
                             <!-- Modal -->
@@ -490,6 +490,11 @@
         <p><a href="#">Kwabena Kesse Awuah, 2017 <a target="_blank" href="#">- Hosted on GITHUB</a>.
         </p>
     </footer>
+
+	  <!-- Script for sending on-click event to Segment  -->
+        <script type="text/javascript">
+        analytics.trackLink(document.querySelector('#click_button'), 'Search Button Clicked');
+        </script>
 
     <!--necessary scripts and plugins-->
     <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
